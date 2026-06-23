@@ -1,0 +1,8 @@
+profiles:
+- name: admin
+  owner:
+    kind: User
+    name: admin@example.com
+  contributors:
+  - name: "a81c37d9-a795-4d44-bc56-ba0bdf918c82"
+    role: edit
