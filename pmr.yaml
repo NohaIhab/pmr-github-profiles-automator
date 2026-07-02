@@ -4,7 +4,5 @@ profiles:
     kind: User
     name: admin@example.com
   contributors:
-  - name: "0845449e-3654-497a-bb27-f7d36732e144"
-    role: edit
-  - name: "434b5409-8f78-4c1b-835e-d04754e6e199"
+  - name: "173cbb53-0d61-40b1-8dd0-73e1ad128950"
     role: edit
