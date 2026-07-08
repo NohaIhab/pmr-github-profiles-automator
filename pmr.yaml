@@ -1,8 +1,8 @@
 profiles:
-- name: admin
+- name: noha
   owner:
     kind: User
-    name: admin@example.com
+    name: noha@example.com
   contributors:
   - name: "05daeb11-5000-4710-9530-7e6e44e02302"
     role: edit
